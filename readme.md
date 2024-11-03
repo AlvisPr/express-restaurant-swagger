@@ -194,7 +194,11 @@ graph TD;
 
 
 
-# FlowchartExample using Swagger JSDoc
+
+
+
+
+# Example using Swagger JSDoc
 
 ```javascript
 // Required dependencies
