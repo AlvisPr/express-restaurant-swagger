@@ -1,6 +1,6 @@
 # API Documentation Process Using Swagger
 
-![Swagger Technology](https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png)
+![Open Source](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/open-source.png?itok=3z5z6Z9U)
 
 ## Table of Contents
 1. [Flowchart](#flowchart)
@@ -16,6 +16,7 @@
     9. [Validate and Test Swagger Document](#9-validate-and-test-swagger-document)
     10. [Serve Swagger UI](#10-serve-swagger-ui)
 3. [Example using Swagger JSDoc](#example-using-swagger-jsdoc)
+4. [Running the Project](#running-the-project)
 
 ## Flowchart
 
@@ -390,5 +391,30 @@ app.listen(PORT, () => {
     console.log(`Swagger UI available at http://localhost:${PORT}/api-docs`);
 });
 ```
+
+## Running this Project
+
+To run this project, follow these steps:
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/AlvisPr/express-restaurant-swagger.git
+    cd express-restaurant-swagger
+    ```
+
+2. **Install dependencies**:
+    ```bash
+    npm install
+    ```
+
+3. **Start the server**:
+    ```bash
+    npm start
+    ```
+
+4. **Access the Swagger UI**:
+    Open your browser and navigate to [http://localhost:3000/api-docs](http://localhost:3000/api-docs).
+
+![Swagger UI](./assets/Swagger.png)
 
 By following these steps, you can create comprehensive and interactive API documentation using Swagger and Swagger JSDoc. This documentation not only provides a detailed description of the API but also includes an example project to help you get started quickly.

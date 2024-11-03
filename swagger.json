@@ -3,7 +3,6 @@
     "info": {
         "version": "1.0.0",
         "title": "My restaurant Project CRUD",
-        "description": "My User Project Application API",
         "license": {
             "name": "MIT",
             "url": "https://opensource.org/licenses/MIT"
