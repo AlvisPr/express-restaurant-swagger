@@ -1,6 +1,6 @@
 # API Documentation Process Using Swagger
 
-![Open Source](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/open-source.png?itok=3z5z6Z9U)
+<img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="Swagger UI" width="200" height="200">
 
 ## Table of Contents
 1. [Flowchart](#flowchart)
